@@ -1,6 +1,6 @@
-# This is my first Repository
+# This is my picture bed
 
-## Aim to practice use github
+## Aim to upload pictures
 
 ** That's all!**
 
